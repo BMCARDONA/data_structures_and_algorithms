@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def containsDuplicate(self, nums):
         # Time: O(n)
         # Space: O(n)
@@ -8,4 +8,3 @@ class Solution(object):
                 return True
             hashSet.add(n)
         return False
-
