@@ -7,10 +7,11 @@
 
 ## Accuracy 
 
-![](https://badges.peiyuan.ch/leetcode/bcardona/rate?difficulty=all)
+![](https://badges.peiyuan.ch/leetcode/bcardona/rate?difficulty=easy)
 ![](https://badges.peiyuan.ch/leetcode/bcardona/rate?difficulty=medium)
 ![](https://badges.peiyuan.ch/leetcode/bcardona/rate?difficulty=hard)
-![](https://badges.peiyuan.ch/leetcode/bcardona/rate?difficulty=easy)
+![](https://badges.peiyuan.ch/leetcode/bcardona/rate?difficulty=all)
+
 
 ## Activity 
 ![](https://leetcode.card.workers.dev/?username=bcardona&theme=unicorn&extension=activity)
